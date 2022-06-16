@@ -1,6 +1,6 @@
 # MongoDbAndRedisPOC
 
-Redis part is created with help of the Les Jackson's Full Course of Redis as a Primary DB using a .NET 6 API.
+Redis part is created with help of the Les Jackson's Full Course of "Redis as a Primary DB using a .NET 6 API".
 
 https://www.youtube.com/watch?v=GgyizgXwXAg
 
