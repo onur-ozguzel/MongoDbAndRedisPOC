@@ -8,17 +8,17 @@ Thanks for sharing this beautiful content.
 
 ---------------------------------------------------------------
 
-MongoDB part is created with help of from Microsoft's MongoDB documentation.
+The MongoDB part is created with the help of Microsoft's MongoDB documentation.
 
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-6.0&tabs=visual-studio
 
 
 # Installation Notes:
 
-A Redis server installed to the Ubuntu on Windows with the help of wsl.
+A Redis server was installed on the Ubuntu on Windows with the help of wsl.
 
 https://docs.microsoft.com/en-us/windows/wsl/install
 
-A MongoDB server installed to the Windows.
+A MongoDB server was installed on Windows.
 
 https://www.mongodb.com/try/download/community
